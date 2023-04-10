@@ -89,7 +89,7 @@ with Vimba.get_instance() as vimba:
                 # calculate l and w of bounding box
                 width = w/90
                 height = h/95
-                area = area/12100
+                area = area/8550
 
                 # append the length and width to the corresponding lists
                 widths.append(width)

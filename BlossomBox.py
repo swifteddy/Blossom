@@ -1,3 +1,5 @@
+# Mohamad Mehdi
+# Add more here...
 import cv2
 import numpy as np
 from vimba import *
@@ -6,10 +8,7 @@ import cProfile
 import os
 
 #def main():
-    # Your code here
 #==============================================================================#
-# Get the path of the cv2 module
-print(cv2.__file__)
 # Set default thresholding parameters
 block_size = 201
 C_constant = 40

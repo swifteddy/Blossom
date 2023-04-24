@@ -18,8 +18,9 @@ Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/your_username/camera-measurements.git
-Connect the camera to your computer and modify the camera ID in the script to match the ID of the camera you are using.
 ```
+
+Connect the camera to your computer and modify the camera ID in the script to match the ID of the camera you are using.
 
 ```python
 cam = vimba.get_camera_by_id('YOUR_CAMERA_ID_HERE')
